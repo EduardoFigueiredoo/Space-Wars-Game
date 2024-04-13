@@ -11,8 +11,8 @@
  ---
 <img src="https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/a3123eb1-b815-423a-a4c5-350b0acbf659">
 
-#### <p style="color: rgb(141, 141, 141);">Após clicar em "play", finalmente temos a tela principal do jogo, onde o objetivo é sobreviver e destruir o máximo possível de inimigos para acumular pontos. Os pontos são obtidos a medida que a nave vai avançando pelo espaço. Destruir os inimigos também garante uma enorme quantidade de pontos. </p>
-####<p style="color: rgb(141, 141, 141);">
+#### <p style="color: rgb(141, 141, 141);">Após clicar em "play", finalmente temos a tela principal do jogo, onde o objetivo é sobreviver e destruir o máximo possível de inimigos para acumular pontos. <br>PONTOS: Os pontos são obtidos a medida que a nave vai avançando pelo espaço. Destruir os inimigos também garante uma enorme quantidade de pontos. </p>
+####<p style="color: rgb(141, 141, 141);">VIDAS
  ---
  ---
  
