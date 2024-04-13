@@ -1,4 +1,4 @@
-<p style="text-align: center;">🛸Space Wars Retro🛸</p>
+<p font-size: 18px; style="text-align: center;">🛸Space Wars Retro🛸</p>
 
 <h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Clique no botão abaixo para jogar: </p>
   
@@ -23,6 +23,6 @@
  ---
  ![image](https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/1f62571d-2c76-44b2-b2e7-3a4de8f8467c)
  
-<p style="color: rgb(141, 141, 141);">🎲 BANCO DE DADOS 🎲 <br> <br> Após digitar seu nome e clicar em "save", suas informações serão armazenadas em um banco de dados.
+<p style="color: rgb(141, 141, 141);">🎲 BANCO DE DADOS 🎲 <br> <br> Após digitar seu nome e clicar em "save", suas informações serão armazenadas em um banco de dados que está vinculado ao jogo. 
 
  
