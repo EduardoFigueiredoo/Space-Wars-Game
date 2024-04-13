@@ -10,9 +10,19 @@
  ---
  ---
 <img src="https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/a3123eb1-b815-423a-a4c5-350b0acbf659">
-
+</hr>
 #### <p style="color: rgb(141, 141, 141);">Após clicar em "play", finalmente temos a tela principal do jogo, onde o objetivo é sobreviver e destruir o máximo possível de inimigos para acumular pontos. <br> <br>❓PONTOS: Os pontos são obtidos a medida que a nave vai avançando pelo espaço. Destruir os inimigos também garante uma enorme quantidade de pontos. <br> <br>❤️VIDAS: O jogo possui sistema de vidas, onde o jogador começa com 3 vidas inicias, indicadas no canto superior esquerdo da tela. Evite colisões e os tiros das naves inimigas para preservar suas vidas, eventualmente novas vidas aparecerão no espaço para serem coletadas. </p>
 
  ---
  ---
+ <img src="https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/2d277b33-8f50-4b83-9ff6-f3cb7d18effc">
+ </hr>
+ #### <p style="color: rgb(141, 141, 141);">💀 GAME OVER 💀 <br> <br> Por fim, ao zerar as vidas, o jogo acaba e aparecerá a tela de game over, onde você podera inserir seu nome e registrar seu score no ranking global. Basta digitar seu nick e clicar ao lado na opção "save".
+
+ ---
+ ---
+ ![image](https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/1f62571d-2c76-44b2-b2e7-3a4de8f8467c)
+<hr>
+#### <p style="color: rgb(141, 141, 141);">🎲 BANCO DE DADOS 🎲 <br> <br> Após digitar seu nome e clicar em "save", suas informações serão armazenadas em um banco de dados.
+
  
