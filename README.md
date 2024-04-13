@@ -1,4 +1,4 @@
-<p font-size: 18px; style="text-align: center;">🛸Space Wars Retro🛸</p>
+<h1 style="text-align: center;">🛸Space Wars Retro🛸</h1>
 
 <h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Clique no botão abaixo para jogar: </p>
   
