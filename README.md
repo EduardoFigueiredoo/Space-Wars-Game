@@ -6,7 +6,7 @@
 
 <img src ="https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/6acd380c-6ab1-4e58-b2b8-d0c4e43b1f45">
 
-<p style="color: rgb(141, 141, 141);">Aqui é o menu inicial, onde temos o botão "play" para iniciar o jogo, e o botão de "instruções", onde você encontrará as informações de comandos de controle do jogo. Em resumo, uses as teclas direcionais do teclado ⬇️⬆️⬅️➡️ para movimentar o personagem livremente para cima, para baixo e para os lados, utilize a tecla ESPAÇO para disparar a vontade. </p>
+#<p style="color: rgb(141, 141, 141);">Aqui é o menu inicial, onde temos o botão "play" para iniciar o jogo, e o botão de "instruções", onde você encontrará as informações de comandos de controle do jogo. Em resumo, uses as teclas direcionais do teclado ⬇️⬆️⬅️➡️ para movimentar o personagem livremente para cima, para baixo e para os lados, utilize a tecla ESPAÇO para disparar a vontade. </p>
  ---
  ---
 <img src="https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/a3123eb1-b815-423a-a4c5-350b0acbf659">
