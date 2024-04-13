@@ -2,7 +2,7 @@
 
 <h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Clique no botão abaixo para jogar: </p>
   
-<a href="https://spacewarsed.netlify.app/" target="_blank">[![Jogo](https://img.shields.io/website?label=Space-Wars&style=for-the-badge&url=https://spacewarsed.netlify.app/)](https://spacewarsed.netlify.app/) </a>
+[![Jogo](https://img.shields.io/website?label=Space-Wars&style=for-the-badge&url=https://spacewarsed.netlify.app/)](https://spacewarsed.netlify.app/)
 
 <img src ="https://github.com/EduardoFigueiredoo/Space-Wars-Game/assets/159921339/6acd380c-6ab1-4e58-b2b8-d0c4e43b1f45">
 
